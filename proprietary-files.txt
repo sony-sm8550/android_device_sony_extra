@@ -46,7 +46,7 @@ vendor/lib64/soundfx/libbundlewrapper1.so
 vendor/lib64/soundfx/libbundlewrapper2.so
 vendor/lib64/soundfx/libbundlewrapper3.so
 vendor/lib64/soundfx/libbundlewrapper4.so
-vendor/lib64/soundfx/libswdap.so
+vendor/lib64/soundfx/libswdap.so|32078329b681fbe07d75bdd0823f9ca4432b864e
 vendor/lib64/soundfx/libdlbvol.so
 vendor/lib64/soundfx/libswgamedap.so
 vendor/lib64/soundfx/libswvqe.so
