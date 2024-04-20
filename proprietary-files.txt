@@ -46,7 +46,7 @@ vendor/lib64/soundfx/libbundlewrapper1.so
 vendor/lib64/soundfx/libbundlewrapper2.so
 vendor/lib64/soundfx/libbundlewrapper3.so
 vendor/lib64/soundfx/libbundlewrapper4.so
-vendor/lib64/soundfx/libswdap.so|32078329b681fbe07d75bdd0823f9ca4432b864e
+vendor/lib64/soundfx/libswdap.so|df21fbe4475431ea8f715f9d58da0cfec9f92fd7
 vendor/lib64/soundfx/libdlbvol.so
 vendor/lib64/soundfx/libswgamedap.so
 vendor/lib64/soundfx/libswvqe.so
@@ -54,7 +54,9 @@ vendor/lib64/liboem_specific.so
 
 # Sound FX Libraries
 vendor/lib64/libXtcApi.so
+vendor/lib64/libaudiokeymgr.so
 vendor/lib64/libaudiosnpewrapper.so
+vendor/lib64/libaudiosnpewrapper_context.so
 vendor/lib64/libcodec2_soft_mha1dec.so
 vendor/lib64/libcodec2_soft_mhm1dec.so
 vendor/lib64/libiVptApi.so
